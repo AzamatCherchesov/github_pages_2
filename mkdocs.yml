@@ -82,10 +82,6 @@ nav:
     - Kaspresso Robolectric: Wiki/08_Kaspresso-Robolectric.md
     - Kaspresso Allure: Wiki/09_Kaspresso-Allure.md
     - Jetpack Compose: Wiki/10_Jetpack-Compose.md
-  - Documentation:
-    - Kaspresso docs: Documentation/kaspresso/index.md
-    - KAutomator docs: Documentation/kautomator/index.md
-    - ADB Server: Documentation/adb-server/index.md
     
 markdown_extensions:
   - admonition
