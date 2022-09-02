@@ -2,8 +2,7 @@ name: publish_documentation
 on:
   push:
     branches:
-      - master 
-      - main
+      - my_tmp
 jobs:
   deploy:
     runs-on: ubuntu-latest
